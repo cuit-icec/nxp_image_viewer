@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/arrow-to-left.svg</file>
+        <file>icons/arrow-to-right.svg</file>
+        <file>icons/pause.svg</file>
+        <file>icons/play.svg</file>
+        <file>icons/arrow-left.svg</file>
+        <file>icons/arrow-right.svg</file>
+        <file>interface/template.c</file>
+    </qresource>
+</RCC>
